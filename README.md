@@ -1,7 +1,7 @@
 [sentinel_privacy_policy.md](https://github.com/user-attachments/files/29851005/sentinel_privacy_policy.md)
 # Privacy Policy — Sentinel
 
-**Last updated: [09-07-2026]**
+**Last updated: 09-07-2026**
 
 This privacy policy explains what data Sentinel ("the app") accesses,
 how it is used, and what is (and is not) done with it.
@@ -62,7 +62,7 @@ a revised "last updated" date.
 ## Contact
 
 If you have questions about this privacy policy or how Sentinel
-handles data, contact: **[verolith.dev@gmail.com]**
+handles data, contact: **verolith.dev@gmail.com**
 
 ---
 
